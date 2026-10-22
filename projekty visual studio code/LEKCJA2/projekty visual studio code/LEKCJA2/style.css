@@ -1,0 +1,16 @@
+body{
+    color:rgb(174, 0, 255);
+}
+
+#naglowek{
+    background-color :crimson;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+    letter-spacing: 2px;
+}
+
+#naglowek h1 {
+    color:black;
+}
+    
